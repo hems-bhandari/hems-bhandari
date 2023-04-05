@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hems</h1>
-<h3 align="center">High school senior from Budhanilkantha School</h3>
+<h3 align="center">High school senior @ Budhanilkantha School</h3>
 
 - 🔭 I’m currently working at **Mathematics Initiatives in Nepal**
 

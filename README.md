@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Mathematics Initiatives in Nepal**
 
-- 🌱 I’m currently learning **Python, AI/ML, NodeJS**
+- 🌱 I’m currently learning **Python, JavaScript**
 
 - 💬 I talk about **AI/ML, Backend Development**
 

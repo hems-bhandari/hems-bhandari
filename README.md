@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working at **Mathematics Initiatives in Nepal**  
   
-- 🌱 I’m currently learning **AI/ML, Blockchain**  
+- 🌱 I’m currently explaring **AI/ML, Blockchain**  
   
 - 👨‍💻 Know more about me at [hemss.me](https://hemss.me/)  
   

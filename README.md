@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **AI/ML, Blockchain**  
   
-- 👨‍💻 Know more about me at [hemss.me](hemss.me)  
+- 👨‍💻 Know more about me at [https://hemss.me/](hemss.me)  
   
 - 💬 I talk about **React, Javascript, Django, Python**  
   
